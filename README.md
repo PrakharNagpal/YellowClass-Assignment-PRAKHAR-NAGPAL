@@ -18,6 +18,11 @@ This app has an infinite scrolling list of cards where by default the card will 
 
 - Enhance UI
 
+## Links 
+
+Link to the video- https://drive.google.com/file/d/1AGwxBVgibAPYg63Fq_UYeV0OXUCQpRHe/view?usp=sharing
+Link to the apk- https://drive.google.com/file/d/1MnIWGi7Q5IYCl8n35lytVjlMrupa9dJX/view?usp=sharing
+
 ## Screenshots
 ## MOBILE APP
   
