@@ -17,8 +17,7 @@ This app has an infinite scrolling list of cards where by default the card will 
 ## Future Scope of this Project 💥
 
 - Enhance UI
-- Add a chat feature
-- Add a security feature to remove fake users
+
 
 
 ## ❤️ Our awesome contributor:technologist: ✨✨
