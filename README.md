@@ -18,6 +18,16 @@ This app has an infinite scrolling list of cards where by default the card will 
 
 - Enhance UI
 
+## Screenshots
+## MOBILE APP
+  
+ <img src ='https://user-images.githubusercontent.com/53858906/177024472-b832f148-fed8-44a6-9c78-82fa60516ee7.jpg'
+ height=400 width=200 />
+ <img src ='https://user-images.githubusercontent.com/53858906/177024489-58df41e9-f5e2-4a61-9e43-d2cd5396064d.jpg' height=400 width=200 />
+ <img src ='https://user-images.githubusercontent.com/53858906/177024498-c3f9be5a-978c-45a4-9b8a-3fb51bbb2269.jpg' height=400 width=200 />
+ <img src ='https://user-images.githubusercontent.com/53858906/177024524-1d345ce5-e148-4103-8d31-eecf145ac611.jpg' height=400 width=200 />
+ <img src ='https://user-images.githubusercontent.com/53858906/177024551-5c594f93-77d2-46d1-aa6d-dc748741cd55.jpg' height=400 width=200 />
+  
 
 
 ## ❤️ Our awesome contributor:technologist: ✨✨
